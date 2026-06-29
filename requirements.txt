@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+
+langchain-core
+langchain-text-splitters
+langchain-community
+langchain-openai
+sentence-transformers
+torch
+pypdf
+docx2txt
+
+pinecone
+pinecone-text
+
