@@ -1,15 +1,15 @@
 streamlit
 python-dotenv
-
+groq
 langchain-core
 langchain-text-splitters
 langchain-community
-langchain-openai
 sentence-transformers
 torch
 pypdf
 docx2txt
-
+langchain-huggingface
 pinecone
 pinecone-text
+
 
